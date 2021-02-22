@@ -12,4 +12,4 @@ $ npm install
 $ npm start
 
 ### Screenshot
-![alt text](http://www.mediafire.com/convkey/73dd/lcesqdadbevqel6zg.jpg)
+![alt text](https://github.com/M-ELMOUSSAOUI/reactjs-users-app/blob/master/SharedScreenshot.jpg?raw=true)
