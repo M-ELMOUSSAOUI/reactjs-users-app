@@ -11,5 +11,4 @@ $ cd ../path/to/the/file
 $ npm install
 $ npm start
 
-### Screenshot
-![alt text](https://github.com/M-ELMOUSSAOUI/reactjs-users-app/blob/master/SharedScreenshot.jpg?raw=true)
+
